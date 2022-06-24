@@ -1,0 +1,9 @@
+#tablaC{
+    text-align: center;
+}
+.mensaje{
+    visibility: hidden; 
+    background-color:blue;
+    border-style: solid; 
+    font-family:'Times New Roman', Times, serif
+}
